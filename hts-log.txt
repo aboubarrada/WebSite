@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 May 2025 15:29:38 at https://Aymen-leBoubarrada.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+Aymen
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://Aymen-leBoubarrada.fr/ -O1 "C:\My Web Sites\Portfolio Aymen" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mAymenontain sensitive information,Aymen
+AymenAymen
+	such as username/password authentication for websiAymenmirrored in this projectAymen
+AymenAymen
+	do not share these files/folders if you want these information to remain private
+
+
+
+15:30:14	Error: 	"Not Found" (404) at link https://Aymen-leBoubarrada.fr/images/RÃ©alisation_Pro/illustration_projet.png (from https://Aymen-leBoubarrada.fr/css/Réalisation_Pro.css)
+
+15:30:14	Error: 	"Not Found" (404) at link https://Aymen-leBoubarrada.fr/images/logo-web-component.png (from https://Aymen-leBoubarrada.fr/Projets_Pro/outils_de_deploiement)
+
+15:30:14	Error: 	"Not Found" (404) at link https://Aymen-leBoubarrada.fr/css/ChoisEquipement.css (from https://Aymen-leBoubarrada.fr/Projets_Pro/outils_de_deploiement)
+
+15:30:14	Error: 	"Not Found" (404) at link https://Aymen-leBoubarrada.fr/entreprise (from https://Aymen-leBoubarrada.fr/Organigramme.html)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 seconds : 153 links scanned, 148 files written (61064205 bytes overall) [60294727 bytes received at 1674853 bytes/sec], 1151975 bytes transferred using HTTP compression in 44 files, ratio 28%, 19.1 requests per connection
+
+(4 errors, 0 warnings, 0 messages)
+
